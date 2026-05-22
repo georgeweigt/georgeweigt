@@ -1,19 +1,19 @@
 [eigenmath](https://github.com/georgeweigt/eigenmath)
-&mdash;
+&emsp;
 Symbolic math app
 
 [sassafras](https://github.com/georgeweigt/sassafras)
-&mdash;
+&emsp;
 Data analysis tool
 
 [itsmr](https://github.com/georgeweigt/itsmr)
-&mdash;
+&emsp;
 Time series analysis
 
 [mel](https://github.com/georgeweigt/mel)
-&mdash;
+&emsp;
 Run Mel Kaye's blackjack program
 
 [quantum-gates](https://github.com/georgeweigt/quantum-gates)
-&mdash;
+&emsp;
 Quantum gates in C code
