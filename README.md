@@ -1,4 +1,5 @@
-[eigenmath](https://github.com/georgeweigt/eigenmath)\
+[eigenmath](https://github.com/georgeweigt/eigenmath)
+&mdash;
 Symbolic math app
 
 [sassafras](https://github.com/georgeweigt/sassafras)\
