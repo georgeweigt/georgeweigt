@@ -6,4 +6,4 @@
 
 [mel](https://github.com/georgeweigt/mel)&ensp;Run Mel Kaye's blackjack program
 
-[quantum-gates](https://github.com/georgeweigt/quantum-gates)&ensp;Quantum gates in C code
+[quantum-gates](https://github.com/georgeweigt/quantum-gates)&ensp;Quantum gates in 300 lines of C
